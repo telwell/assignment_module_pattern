@@ -1,0 +1,13 @@
+#mole-wrapper{
+	margin-top: 50px;
+}
+
+.mole-table td {
+	height: 100px;
+	width: 12.5%;
+}
+
+td.mole {
+	background-image: url('img/mole.jpg');
+	background-size: cover;
+}
